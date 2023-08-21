@@ -1,0 +1,56 @@
+[
+  {
+    "ten_lop": "T1801A",
+    "dia_chi": "Detech Building",
+    "danh_sach_SinhVien": [
+      {
+        "ho_ten": "Tran Van A",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvana@gmail.com",
+        "dia_chi": "Ha Noi",
+        "gioi_tinh": "Nam"
+      },
+      {
+        "ho_ten": "Tran Van B",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvanb@gmail.com",
+        "dia_chi": "Hai Phong",
+        "gioi_tinh": "Nam"
+      },
+      {
+        "ho_ten": "Tran Van C",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvanc@gmail.com",
+        "dia_chi": "Lang Son",
+        "gioi_tinh": "Nam"
+      }
+    ]
+  },
+  {
+    "ten_lop": "T1804M",
+    "dia_chi": "Detech Building",
+    "danh_sach_SinhVien": [
+      {
+        "ho_ten": "Tran Van D",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvand@gmail.com",
+        "dia_chi": "TP. Ho Chi Minh",
+        "gioi_tinh": "Nam"
+      },
+      {
+        "ho_ten": "Tran Van E",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvane@gmail.com",
+        "dia_chi": "Long An",
+        "gioi_tinh": "Nam"
+      },
+      {
+        "ho_ten": "Tran Van F",
+        "ngay_sinh": "01-01-19991",
+        "email": "tranvanf@gmail.com",
+        "dia_chi": "Da Nang",
+        "gioi_tinh": "Nam"
+      }
+    ]
+  }
+]

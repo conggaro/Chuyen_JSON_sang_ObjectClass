@@ -1,0 +1,17 @@
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Convert_JSON_to_Object.exe
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Convert_JSON_to_Object.deps.json
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Convert_JSON_to_Object.runtimeconfig.json
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Convert_JSON_to_Object.dll
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Convert_JSON_to_Object.pdb
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.AssemblyInfoInputs.cache
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.AssemblyInfo.cs
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.csproj.CoreCompileInputs.cache
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.dll
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\refint\Convert_JSON_to_Object.dll
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.pdb
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.genruntimeconfig.cache
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\ref\Convert_JSON_to_Object.dll
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.csproj.AssemblyReference.cache
+C:\Test Code C#\Convert_JSON_to_Object\Convert_JSON_to_Object\obj\Debug\net6.0\Convert_JSON_to_Object.csproj.CopyComplete
